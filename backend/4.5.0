@@ -1,0 +1,43 @@
+
+> bufferutil@4.0.6 install C:\Users\apple pro\OneDrive\Desktop\projects\blockchain-app\backend\node_modules\bufferutil
+> node-gyp-build
+
+
+> utf-8-validate@5.0.9 install C:\Users\apple pro\OneDrive\Desktop\projects\blockchain-app\backend\node_modules\utf-8-validate
+> node-gyp-build
+
+
+> es5-ext@0.10.62 postinstall C:\Users\apple pro\OneDrive\Desktop\projects\blockchain-app\backend\node_modules\es5-ext
+>  node -e "try{require('./_postinstall')}catch(e){}" || exit 0
+
+
+> web3-bzz@1.7.4 postinstall C:\Users\apple pro\OneDrive\Desktop\projects\blockchain-app\backend\node_modules\web3-bzz
+> echo "WARNING: the web3-bzz api will be deprecated in the next version"
+
+"WARNING: the web3-bzz api will be deprecated in the next version"
+
+> web3-shh@1.7.4 postinstall C:\Users\apple pro\OneDrive\Desktop\projects\blockchain-app\backend\node_modules\web3-shh
+> echo "WARNING: the web3-shh api will be deprecated in the next version"
+
+"WARNING: the web3-shh api will be deprecated in the next version"
+
+> web3@1.7.4 postinstall C:\Users\apple pro\OneDrive\Desktop\projects\blockchain-app\backend\node_modules\web3
+> echo "WARNING: the web3-shh and web3-bzz api will be deprecated in the next version"
+
+"WARNING: the web3-shh and web3-bzz api will be deprecated in the next version"
++ @types/mocha@9.1.0
++ hardhat-gas-reporter@1.0.8
++ @typechain/hardhat@6.1.2
++ solidity-coverage@0.7.21
++ @nomiclabs/hardhat-etherscan@3.0.0
++ @nomicfoundation/hardhat-network-helpers@1.0.0
++ ts-node@10.9.1
++ @nomicfoundation/hardhat-chai-matchers@1.0.0
++ typescript@4.8.2
+added 453 packages from 421 contributors and audited 1888 packages in 127.012s
+
+161 packages are looking for funding
+  run `npm fund` for details
+
+found 122 vulnerabilities (7 low, 43 moderate, 59 high, 13 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
